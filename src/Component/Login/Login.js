@@ -15,7 +15,6 @@ login = (e) =>{
      if(uname === currVal.name && pwd === currVal.birth_year ){
         this.redirectToSearch();
       }
-      return null;
   })
 }
 
