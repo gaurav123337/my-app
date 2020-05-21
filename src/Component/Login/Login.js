@@ -19,7 +19,7 @@ login = (e) =>{
 }
 
 redirectToSearch = () => {
-  history.push('/Search');
+  history.push('/my-app/Search');
 }
 
 change =(e) => {

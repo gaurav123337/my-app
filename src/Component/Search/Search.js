@@ -75,7 +75,7 @@ renderDes = (detailItem) => {
     return (
       <>
       <form style={{textAlign: "end"}}>
-<button type="submit" className="btn btn-black mr-2" onClick={() => history.push('/')}>Logout</button>
+<button type="submit" className="btn btn-black mr-2" onClick={() => history.push('/my-app')}>Logout</button>
       </form>
 
         <div className="main">
